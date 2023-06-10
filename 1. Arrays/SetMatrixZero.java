@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.* ;
-
 public class SetMatrixZero {
     public static void setZeros(int matrix[][]) {
         int row = matrix.length;
