@@ -1,5 +1,5 @@
 import java.util.*;
-public class Longest SubstringWithoutRepeatingCharacters{
+public class LongestSubstringWithoutRepeatingCharacters{
     public int lengthOfLongestSubstring(String s) {
         int i=0;
              int j=0;
